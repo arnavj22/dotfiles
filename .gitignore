@@ -16,6 +16,7 @@
 # ===================================
 .zsh_history
 .config/zsh/.zsh_history
+.config/zsh/.secrets.zsh
 .config/zsh/.zcompdump*
 .zcompdump*
 
