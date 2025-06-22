@@ -1,0 +1,1 @@
+export PATH="$PATH:/Users/arnavjain/Library/Application Support/JetBrains/Toolbox/scripts"

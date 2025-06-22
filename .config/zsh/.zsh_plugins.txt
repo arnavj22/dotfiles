@@ -1,0 +1,4 @@
+zsh-users/zsh-autosuggestions
+unixorn/fzf-zsh-plugin
+sindresorhus/pure
+zsh-users/zsh-syntax-highlighting
