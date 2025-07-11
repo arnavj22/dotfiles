@@ -1,4 +1,5 @@
 zsh-users/zsh-autosuggestions
 unixorn/fzf-zsh-plugin
 sindresorhus/pure
+muePatrick/zsh-ai-commands
 zsh-users/zsh-syntax-highlighting

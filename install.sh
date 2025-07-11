@@ -9,7 +9,7 @@ echo "Creating ~/.config directory if it doesn't exist..."
 mkdir -p "$CONFIG_DIR"
 
 # List of config folders inside .config to symlink
-CONFIG_FOLDERS=("zsh" "git" "gh")
+CONFIG_FOLDERS=("zsh" "git" "gh" "iterm2-themes" "wezterm")
 
 for folder in "${CONFIG_FOLDERS[@]}"; do
   TARGET="$CONFIG_DIR/$folder"

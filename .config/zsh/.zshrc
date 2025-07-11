@@ -1,5 +1,6 @@
 # ENV
 source $ZDOTDIR/exports.zsh
+[[ -f "$ZDOTDIR/secrets.zsh" ]] && source "$ZDOTDIR/secrets.zsh"
 
 # Antidote Plugin Manager
 export ANTIDOTE_HOME="$ZDOTDIR/antidoteplugins"

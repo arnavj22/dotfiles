@@ -28,6 +28,11 @@ alias la="ls -A"
 alias l="ls -CF"
 alias finder="open ."
 
+alias ..='cd ..'
+alias ...='cd ../..'
+alias ....='cd ../../..'
+alias .....='cd ../../../..'
+
 
 # School directory environment variable
 export SCHOOL="$HOME/School/Year3Fall"
