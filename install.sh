@@ -8,7 +8,7 @@ CONFIG_DIR="$HOME/.config"
 echo "Creating ~/.config directory if it doesn't exist..."
 mkdir -p "$CONFIG_DIR"
 
-CONFIG_FOLDERS=("zsh" "git" "gh" "iterm2-themes" "wezterm")
+CONFIG_FOLDERS=("zsh" "git" "gh" "iterm2-themes" "helix" "wezterm")
 
 for folder in "${CONFIG_FOLDERS[@]}"; do
   TARGET="$CONFIG_DIR/$folder"
